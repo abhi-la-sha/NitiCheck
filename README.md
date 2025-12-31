@@ -101,18 +101,6 @@ Processes uploaded documents and returns structured risk analysis.
 
 ---
 
-## 🧠 Why the Name “NitiCheck”?
-
-**Nīti (नीति)** means policy or ethical rule in Sanskrit.
-
----
-
 ## 👩‍💻 Author
 
 **Abhilasha**
-
----
-
-## 📜 License
-
-Under active development.
