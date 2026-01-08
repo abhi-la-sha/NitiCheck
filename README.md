@@ -103,4 +103,10 @@ Processes uploaded documents and returns structured risk analysis.
 
 ## 👩‍💻 Author
 
-**Abhilasha**
+**Abhilasha Kamal**
+
+---
+
+## License
+This project is licensed under the MIT License.
+
