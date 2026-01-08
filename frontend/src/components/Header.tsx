@@ -10,7 +10,7 @@ export function Header() {
           </div>
           <div>
             <h1 className="text-xl font-semibold tracking-tight">
-              Financial Document Risk Analyzer
+              NitiCheck
             </h1>
             <p className="text-sm text-header-foreground/70">
               Understand financial documents in plain language
