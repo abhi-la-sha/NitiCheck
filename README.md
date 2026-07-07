@@ -264,7 +264,7 @@ Interactive API docs available at `http://localhost:8000/docs` when the backend 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<abhi-la-sha>/NitiCheck.git
+git clone https://github.com/abhi-la-sha/NitiCheck.git
 cd NitiCheck
 ```
 
