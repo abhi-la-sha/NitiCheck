@@ -52,7 +52,7 @@ NitiCheck solves this by:
 
 ## 🧱 System Architecture
 
-Frontend (React + Vite)  
+→ Frontend (React + Vite)  
 → REST API  
 → Backend (FastAPI)
 
